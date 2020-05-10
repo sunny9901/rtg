@@ -1,0 +1,38 @@
+.h1{
+    width: 100%;
+    background: yellowgreen;
+    color: white;
+
+    font-size: 35px;
+   
+    text-align: center;
+    padding: 40px 15px;
+    background-size: cover;
+}
+h1{
+    font-size: 35px;
+    color: red;
+}
+a:link, a:visited {
+    
+    color:blue;
+    padding: 7px 10px;
+    text-align: left;
+    text-decoration: none;
+     
+    font-size: 25px;
+    float: center;
+    
+  } 
+  .h9{
+    font-size: 30px;
+    color: red;
+}
+.o1{
+   
+    
+    font-size: 25px;
+    
+    color:blue;
+
+}

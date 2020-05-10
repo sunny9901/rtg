@@ -1,0 +1,52 @@
+
+h3{
+    color: grey;
+    text-align:center ;
+    font-size: 30px;
+    
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+   
+}
+
+body{
+    
+    background-image: url("imge/s.jpg");
+    margin-left: 100px;
+}
+#frm{  
+    border: solid gray 1px;  
+    width:25%;  
+    border-radius: 12px;  
+    margin: 50px auto;  
+    background:rgb(255, 255, 255);  
+    padding: 5px;  
+}  
+table{
+    text-align: center;
+   
+    font-style: italic;
+    font-size: 25px;
+   
+    font-weight: bold;
+
+}
+button{
+    background-color:blue;
+    color: white;
+    padding: 7px 10px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 50%;
+
+}
+#em{
+padding: 6px 10px;
+}
+
+#ema{
+    padding: 5px 26px;
+}
